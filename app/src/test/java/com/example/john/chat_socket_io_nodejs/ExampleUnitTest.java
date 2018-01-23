@@ -1,4 +1,4 @@
-package com.example.john.app_01_real_time;
+package com.example.john.chat_socket_io_nodejs;
 
 import org.junit.Test;
 

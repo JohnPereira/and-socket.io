@@ -1,4 +1,4 @@
-package com.example.john.app_01_real_time;
+package com.example.john.chat_socket_io_nodejs;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.john.app_01_real_time", appContext.getPackageName());
+        assertEquals("com.example.john.chat_socket_io_nodejs", appContext.getPackageName());
     }
 }
